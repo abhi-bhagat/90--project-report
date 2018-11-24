@@ -23,3 +23,14 @@ Fusion charts is an really interesting application. Using that we will be able t
 Creating multiple database while signup
 
 ## IMAGES
+### LOGIN
+![login](https://user-images.githubusercontent.com/40839483/48966007-7eacbb80-ef7d-11e8-962a-d11a5cbbaa16.PNG)
+
+### DASHBOARD
+![scaled-dashboard](https://user-images.githubusercontent.com/40839483/48966018-a8fe7900-ef7d-11e8-8829-b29b2f1d0b6a.PNG)
+
+### ADD MEDICINE
+![add-medicine](https://user-images.githubusercontent.com/40839483/48966026-b9aeef00-ef7d-11e8-9d6e-a8549d730aca.PNG)
+
+### PROFILE
+![profile](https://user-images.githubusercontent.com/40839483/48966029-c7fd0b00-ef7d-11e8-9a6e-205a2a05594a.PNG)
