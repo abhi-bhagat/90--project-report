@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# 90% PROJECT REPORT
 
-You can use the [editor on GitHub](https://github.com/abhi-bhagat/90--project-report/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Our team is working on a project that is almost complete. We are just working on some final features. We have successfully integrated the database with the fusion charts. We have been successfully able to visualize the data. Now we are working on features like:
+* Showing the specific medicine related to the disease that is being searched
+* Showing the complete detail about that medicine when we click on the chart showing medicine information.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## THINGS THAT WENT WELL
+#### 1. Database was succesfully integrated
+#### 2. Data was successfully visualized
 
-### Markdown
+## THINGS THAT DIDN'T WENT WELL
+#### 1. In user database we were not able to update the table for user when he/she signup.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## INTERESTING THINGS
+Fusion charts is an really interesting application. Using that we will be able to visualize different medicines that are used in different regions. We are 60% done with it and maybe include in the project.
 
-```markdown
-Syntax highlighted code block
+## NEXT WEEK TODO's
+* Making the feature that show different medicine according to disease searched.
+* Polish the website
+* Fix bugs related to user signup
 
-# Header 1
-## Header 2
-### Header 3
+## BACKLOG
+Creating multiple database while signup
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abhi-bhagat/90--project-report/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## IMAGES
